@@ -11,10 +11,6 @@
     "license": "ISC",
     "dependencies": {
         "express": "^4.16.3",
-<<<<<<< HEAD
-        "nodemon": "^2.0.4",
-=======
->>>>>>> 8782647b3c01edb8ba6a0ca1b4342f1fc638c4f7
         "socket.io": "^2.3.0"
     }
 }
